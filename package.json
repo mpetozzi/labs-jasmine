@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "mpetozzi",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "grunt": "^0.4.5",
     "karma": "^0.12.17",
